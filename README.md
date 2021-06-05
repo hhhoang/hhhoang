@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**hhhoang/hhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/hhhoang/hhhoang/blob/main/HANH%20HOANG.png" width= "900">
 
-Here are some ideas to get you started:
+## Skills 
+* HTML 
+* CSS 
+* Javascript 
+* Bootstrap 
+* ReactJS
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get to Know Me 
+- 🔭 I’m currently working on becoming a Full Stack Developer / Data Scientist 
+- 🌱 I’m currently learning ReactJS and D3JS 
+- 👯 I’m looking to collaborate on web development projects 
+- 💬 Ask me about design and technology  
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I love house plants and am crazy about coffee and ice cream. 
+
+## Contact 
+💻 [Website](https://hanhhoang.com/) 
+<br>
+🐦[Twitter](https://twitter.com/thimyhanhhoang)
+<br>
+
+
+
+
+
+
